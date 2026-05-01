@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="keyboard-input/keyboard-input.vcxproj" Id="17ea863c-be04-4ac2-9f92-83659f44e7ad" />
+</Solution>
