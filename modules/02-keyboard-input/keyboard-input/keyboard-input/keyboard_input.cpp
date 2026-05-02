@@ -1,5 +1,5 @@
 #include <iostream>
-#include <conio.h>  // _getch()를 사용하기 위한 라이브러리
+#include <conio.h>  // _getch()를 사용하기 위한 헤더
 
 void PrintInputKey(int keyCode);
 void PrintSpecialKey(int keyCode);

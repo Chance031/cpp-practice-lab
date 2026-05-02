@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="mouse-input/mouse-input.vcxproj" Id="c40873f1-b87d-4617-ab02-2c25468148c5" />
+</Solution>

@@ -57,13 +57,27 @@ compile_commands.json
 *.log
 *.bak
 *.swp
+*.user
+*.suo
+*.opendb
+*.VC.db
+*.VC.opendb
+*.vsidx
+*.recipe
 
 # vcpkg
 vcpkg_installed/
 
 # debug information files
 *.dwo
+*.idb
+*.ipch
 
 # test output & cache
 Testing/
 .cache/
+
+# Visual Studio generated directories
+.vs/
+ipch/
+x64/
