@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="collision_keyboard.cpp/collision_keyboard.cpp.vcxproj" />
+  <Project Path="collision_keyboard.cpp/collision_keyboard.cpp.vcxproj" Id="a5a0ff01-6bff-434d-ae82-ff614056a917" />
 </Solution>
