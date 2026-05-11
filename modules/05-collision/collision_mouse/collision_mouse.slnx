@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="collision_mouse/collision_mouse.vcxproj" />
+  <Project Path="collision_mouse/collision_mouse.vcxproj" Id="bbff4a68-77b3-4f2e-9d70-636105e9c249" />
 </Solution>
